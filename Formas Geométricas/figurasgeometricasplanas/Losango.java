@@ -18,7 +18,7 @@ public class Losango {
 		diagmenor = pDiagMenor;
 	}
 	public void calcArea() {
-		area = (diagmaior*diagmaior)/2;
+		area = (diagmaior*diagmenor)/2;
 	}
 	public void mostrarArea() {
 		System.out.println(area);
