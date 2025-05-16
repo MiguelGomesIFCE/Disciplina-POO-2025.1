@@ -20,7 +20,7 @@ public class Trapezio {
 		basemenor = pBaseMenor;
 	}
 	public void recebeAltura(double pAltura) {
-		basemenor = pAltura;
+		altura = pAltura;
 	}
 	public void calcArea() {
 		area = (basemaior+basemenor)*altura/2;
