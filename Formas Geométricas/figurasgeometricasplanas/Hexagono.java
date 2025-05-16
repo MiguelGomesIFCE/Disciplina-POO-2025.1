@@ -4,7 +4,7 @@ public class Hexagono {
 	private double lado;
 	private double area;
 	
-	public Paralelogramo() {
+	public Hexagono() {
 		lado = 0;
 		area = 0;
 	}
